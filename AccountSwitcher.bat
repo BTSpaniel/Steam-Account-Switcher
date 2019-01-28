@@ -69,10 +69,10 @@ IF %MCheck% == 2 goto ac2
 IF %MCheck% == 3 goto ac3
 IF %MCheck% == 4 goto ac4
 IF %MCheck% == 5 goto ac5
-IF %MCheck% == 5 goto ac6
-IF %MCheck% == 5 goto ac7
-IF %MCheck% == 5 goto ac8
-IF %MCheck% == 5 goto ac9
+IF %MCheck% == 6 goto ac6
+IF %MCheck% == 7 goto ac7
+IF %MCheck% == 8 goto ac8
+IF %MCheck% == 9 goto ac9
 IF %MCheck% == menu goto menu
 CLS
 
